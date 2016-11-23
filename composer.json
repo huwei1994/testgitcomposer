@@ -1,0 +1,19 @@
+{
+    "name": "huwei1994/gitcomposer",
+    "description": "this is test composer only use github repository not use packgist",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "huwei",
+            "email": "wei.hu@haoqitech.com.cn"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Gitcomposer\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
